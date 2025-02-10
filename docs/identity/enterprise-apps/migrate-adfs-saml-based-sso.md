@@ -16,7 +16,7 @@ ms.reviewer: gasinh
 ---
 # SAML-based single sign-on: Configuration and Limitations
 
-In this article, you learn how to configure an application for SAML-based single sign-on (SSO) with Microsoft Entra ID. If focuses on configuring SAML SSO for apps that are migrated from Active Directory Federation Services (ADFS) to Microsoft Entra ID.
+In this article, you learn how to configure an application for SAML-based single sign-on (SSO) with Microsoft Entra ID. It focuses on configuring SAML SSO for apps that are migrated from Active Directory Federation Services (ADFS) to Microsoft Entra ID.
 
 The concepts covered include mapping users to specific application roles based on rules, and limitations to keep in mind when mapping attributes. It also covers SAML signing certificates, SAML token encryption, SAML request signature verification, and custom claims providers.
 
